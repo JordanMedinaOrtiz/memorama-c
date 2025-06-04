@@ -1,7 +1,7 @@
 <h1 align="center">Memory Game in C 🎴🧠</h1>
 <p align="left">
   <a href="README_ES.md" target="_blank">
-    See README in Spanish
+    Ver README en Español
   </a>
 </p>
 <p>This repository contains the source code for my Programming 1 lab project, where I developed a console-based memory game (Memorama) using the C programming language.
