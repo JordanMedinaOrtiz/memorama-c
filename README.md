@@ -42,7 +42,7 @@ The main goal of this project was to practice and reinforce my understanding of 
 
    ```sh
    git clone https://github.com/JordanMedinaOrtiz/memorama-c.git
-   cd memorama-c.git
+   cd memorama-c
    ```
 
 2. Compile the program using GCC or any compatible C compiler:
