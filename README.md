@@ -52,7 +52,7 @@ The main goal of this project was to practice and reinforce my understanding of 
 
 3. Run the program:
    ```sh
-   gcc memorama.c -o memorama
+   ./memorama
    ```
 4. Play the game
 
