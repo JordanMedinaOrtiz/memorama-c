@@ -56,7 +56,7 @@ El objetivo principal de este proyecto fue practicar y reforzar mi comprensión 
 
 3. Ejecuta el programa:
    ```sh
-   gcc memorama.c -o memorama
+   ./memorama
    ```
 4. ¡Juega y disfruta!
 
