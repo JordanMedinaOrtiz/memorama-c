@@ -1,33 +1,60 @@
-<h1 align="center">Memorama en C</h1>
-Este repositorio contiene el código fuente y los archivos relacionados con mi proyecto de laboratorio de Programación 1, donde se desarrolló un juego de memorama en lenguaje C.
-<hr>
+<h1 align="center">Memory Game in C 🎴🧠</h1>
+<p align="left">
+  <a href="README_ES.md" target="_blank">
+    See README in Spanish
+  </a>
+</p>
+<p>This repository contains the source code for my Programming 1 lab project, where I developed a console-based memory game (Memorama) using the C programming language.
+The main goal of this project was to practice and reinforce my understanding of one-dimensional and two-dimensional arrays in a fun and interactive way through game development.</p>
+<h1 align="center">Technologies Used</h1>
 <div align="center">
-  <h2>Para la Realización del Juego se Utilizo: </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="40px">
 </div>
 <hr>
-<h2 align="center">Descripción del Proyecto</h2>
-<p>El objetivo principal de este proyecto era aplicar y mejorar las habilidades en la manipulación de arreglos bidimensionales y unidimensionales en el contexto de un juego interactivo. El memorama implementado en C es una representación práctica de estos conceptos, donde se utilizan arreglos para gestionar el estado del juego, las cartas y la interacción del usuario.</p>
-<hr>
-<h2 align="center">Características Principales</h2>
+<h1 align="center">Objective</h1>
 <ul>
-  <li><b>Arreglos Bidimensionales y Unidimensionales:</b> Se utilizan para gestionar la estructura del tablero de juego y las cartas respectivamente, demostrando una comprensión sólida de la manipulación de arreglos en C.</li>
-  <li><b>Interfaz de Usuario Simple:</b> La implementación incluye una interfaz de usuario básica en la consola, permitiendo a los usuarios jugar al memorama de manera intuitiva.</li>
+  <li>Apply structured programming in a real project.</li>
+  <li>Work with <b>1D and 2D arrays</b> to manage game data.</li>
+  <li>Design a <b>fully playable memory card game</b> in the console.</li>
 </ul>
 <hr>
-<h2 align="center">Instrucciones de Uso</h2>
+<h1 align="center">Main Features</h1>
 <ul>
-  <li><b>Compilación:</b> Utiliza un compilador de C para compilar el código fuente. Por ejemplo, puedes usar GCC con el siguiente comando: 'gcc memorama.c -o memorama'.</li>
-  <li><b>Ejecución:</b> Ejecuta el programa resultante con './memorama' en la línea de comandos.</li>
-  <li><b>Juega:</b> Sigue las instrucciones en la consola para jugar al memorama. Utiliza las teclas para seleccionar y emparejar las cartas.</li>
+  <li><b>Game Board</b> managed with <b>2D arrays.</b></li>
+  <li><b>Card data</b> handled through <b>1D arrays.</b></li>
+  <li><b>Simple user interface </b> in the terminal.</li>
+  <li>Real-time interaction with card flipping and matching logic.</li>
+  <li>Validations to ensure consistent and error-free gameplay.</li>
 </ul>
 <hr>
-<div align="center">
-  <h2>Vista Visual del Proyecto</h2>
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/inicio.png" alt="Inicio" title="Inicio" width="100%">
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/configuracion.png" alt="Configuración" title="Configuración" width="100%">
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/memorama.png" alt="Memorama 1" title="Memorama 1" width="100%">
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/memorama2.png" alt="Memorama 2" title="Memorama 2" width="100%">
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/memorama3.png" alt="Memorama 3" title="Memorama 3" width="100%">
-  <img src="https://github.com/JordanMedinaOrtiz/Memorama/blob/main/Memorama/img/puntos.png" alt="Puntos" title="Puntos" width="100%">
-</div>
+<h1 align="center">Skills Acquired</h1>
+<ul>
+  <li>Deepened understanding of <b>array manipulation in C.</b></li>
+  <li>Strengthened logic and flow control using <b>loops and conditionals.</b></li>
+  <li>Practiced  <b>input/output operations</b> in the command line.</li>
+  <li>Applied <b>clean code structure</b> in a full, self-contained project.</li>
+</ul>
+<hr>
+
+### How to Use
+
+1. Clone this repository to your local machine:
+
+   ```sh
+   git clone https://github.com/JordanMedinaOrtiz/memorama-c.git
+   cd memorama-c.git
+   ```
+
+2. Compile the program using GCC or any compatible C compiler:
+   ```sh
+   gcc memorama.c -o memorama
+   ```
+
+3. Run the program:
+   ```sh
+   gcc memorama.c -o memorama
+   ```
+4. Play the game
+
+<p>This solo-developed project was a great opportunity to combine my programming knowledge with a real application. It allowed me to reinforce core C programming concepts like arrays, conditionals, and loops, while building something interactive and enjoyable.</p>
+<img src="memorama-c.png" alt="Project Image" title="Project Image" />
